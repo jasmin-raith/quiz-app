@@ -1,5 +1,5 @@
 ## Quiz-app
-## Project to get used to javascript & sound implementation.
+Project to get used to javascript & sound implementation.
 
 ![Preview](https://github.com/jasmin-raith/media/blob/main/katzenquiz/Katzenquiz.gif?raw=true)
 
